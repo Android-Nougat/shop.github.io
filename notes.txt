@@ -1,0 +1,9 @@
+TO DO
+-add a search bar with suggestions 
+-use modal to make contact us appear as dialogue
+-add click listener events for containers
+-use php or python for the first one
+-use animations on scrolling
+-style the other webpages
+-add some background animations
+-add user rartings

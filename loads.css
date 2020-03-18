@@ -1,0 +1,13 @@
+ellipse{
+transition: 1s;
+transform: rotate3d(30deg);
+}
+@keyframes trial{
+	from{left: 30px};
+	to{left:70px};
+}
+svg{
+	animation-name:trial;
+	animation-duration: 3s;
+	background-color: red; 
+}
